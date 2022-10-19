@@ -1,0 +1,12 @@
+.todoFooter {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.footer-btn {
+    position: absolute;
+    right: 10px;
+}
