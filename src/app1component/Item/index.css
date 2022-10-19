@@ -1,0 +1,16 @@
+.item-wrapper{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+input{
+    height: 30px;
+
+}
+
+.item-btn {
+    display: block;
+    position: absolute;
+    right: 20px;
+}
